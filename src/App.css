@@ -1,0 +1,14 @@
+h2{
+    background:rgb(243, 173, 126);
+    border-radius: 2em;
+    padding:5px;
+    display:inline-block;
+    color:#FFF;
+};
+h4+h5{
+    padding: 2px;  
+    font-size: medium;
+}
+
+
+
